@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.event-details {
+  list-style-type: none;
+  margin-right: 25px;
+  margin-bottom: 5px;
+}
+
+.images {
+  height: 160px;
+  border-radius: 10px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0px;
+  padding: 0px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.location {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
